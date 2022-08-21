@@ -1,6 +1,6 @@
 body
 {
-    color: #333;
+    color: red;
     text-align: center;
 <<<<<<< HEAD
     font-family: Courier;
@@ -41,7 +41,7 @@ body
     margin: 0 auto;
 }
 <<<<<<< HEAD
-#container h1
+ #container h1
 {
     font-size: 20px;
 =======
